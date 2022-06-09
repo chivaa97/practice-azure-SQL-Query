@@ -21,7 +21,7 @@
 ![sentence](img/5-DB.jpg)
 ##### -Open SQL database.
 ##### -In overview, we click on "Set server firewall".
-##### -We scroll down to the firewall rues and click on add your client IPv4 address and save.
+##### -We scroll down to the firewall rules and click on add your client IPv4 address and save.
 ![sentence](img/6-DB.jpg)
 ##### -We have to select "Query editor".
 ##### -We have to log in.
