@@ -1,4 +1,4 @@
-# Practice Consult SQL Database
+# Practice Query SQL Database
 ![Blob Storage](img/title.png)
 
 ----------------------------------------------------------------
